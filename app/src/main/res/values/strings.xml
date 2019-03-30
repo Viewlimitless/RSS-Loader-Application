@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RSSUpdateApp</string>
+    <string name="rss">RSS:</string>
+    <string name="show">show</string>
+</resources>
